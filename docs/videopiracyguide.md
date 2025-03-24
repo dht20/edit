@@ -480,6 +480,8 @@
 * [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
 * [F1 Dash](https://f1-dash.com/) - F1 Live Stats
 * [Live Snooker Guide](https://redd.it/1ibz2yz) - Snooker
+* [Sport4all](https://sport4all.live/) - Football
+* [Topsport](https://redd.it/1ibz2yz) - Football
 
 ***
 
